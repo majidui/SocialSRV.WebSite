@@ -7,18 +7,10 @@ Whenever you commit to this repository, GitHub Pages will run [majidui](https://
 ### For You
 
 ```markdown
-Syntax highlighted code block
 
 # My Attention
 
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-_Work on the _ **SocialSRV.WebSite** _ With _ `Angular 2`
+Work on the SocialSRV.WebSite With `Angular 2`
 
 ```
 
@@ -26,7 +18,7 @@ For more details see [GitHub Flavored Markdown](https://github.com/majidui/Socia
 
 ### Angular Themes
 
-We Work With `_Material 2` on Angualr 2.
+We Work With `Material 2` on Angualr 2.
 
 ### Support or Contact
 
